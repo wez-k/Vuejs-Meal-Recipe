@@ -39,17 +39,17 @@ npm run preview
 This will start a local server to preview the production build.
 
 # Dependencies
-Axios: Promise-based HTTP client for making API requests.
-Firebase: Backend services for authentication, database, and more.
-Vue: Progressive JavaScript framework for building user interfaces.
-Vue Router: Official router for Vue.js applications.
-Vuex: State management library for Vue.js applications.
-Tailwind CSS: Utility-first CSS framework for designing UI.
+Axios: Promise-based HTTP client for making API requests.<br>
+Firebase: Backend services for authentication, database, and more.<br>
+Vue: Progressive JavaScript framework for building user interfaces.<br>
+Vue Router: Official router for Vue.js applications.<br>
+Vuex: State management library for Vue.js applications.<br>
+Tailwind CSS: Utility-first CSS framework for designing UI.<br>
 
 # Dev Dependencies
-@tailwindcss/forms: Form styles for Tailwind CSS.
-@vitejs/plugin-vue: Official Vue.js plugin for Vite.
-autoprefixer: PostCSS plugin to parse CSS and add vendor prefixes.
-postcss: A tool for transforming styles with JS plugins.
-tailwindcss: A utility-first CSS framework for rapidly building custom designs.
-vite: Fast development build tool that serves your code instantly.
+@tailwindcss/forms: Form styles for Tailwind CSS.<br>
+@vitejs/plugin-vue: Official Vue.js plugin for Vite.<br>
+autoprefixer: PostCSS plugin to parse CSS and add vendor prefixes.<br>
+postcss: A tool for transforming styles with JS plugins.<br>
+tailwindcss: A utility-first CSS framework for rapidly building custom designs.<br>
+vite: Fast development build tool that serves your code instantly.<br>
